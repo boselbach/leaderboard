@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACN,gBAAgB,EAAE,GAAG",
+"sources": ["../frontend/app/modules/projects/sass/projects.scss"],
+"names": [],
+"file": "modules.css"
+}

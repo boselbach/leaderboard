@@ -1,0 +1,8 @@
+form {
+    @include span-columns(12);
+    
+    input {
+        display: block;
+        margin: 5px 0;
+    }
+}

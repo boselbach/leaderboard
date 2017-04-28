@@ -1,0 +1,10 @@
+@import "neat/neat-helpers"; // or "neat-helpers" when in Rails
+
+// Change the grid settings
+$column: 80px;
+$gutter: 20px;
+$grid-columns: 12;
+$max-width: 1200px;
+$visual-grid: false;
+$visual-grid-opacity: 0.2;
+$visual-grid-color: #3EBDFF;

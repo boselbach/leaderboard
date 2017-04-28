@@ -1,0 +1,10 @@
+<article class="projects">
+    <section class="container">
+        <ul>
+            <li ng-repeat="project in projects">
+                <a href="#/projects/{{ project._id }}">{{ project.title }}</a>
+            </li>
+        </ul>
+        <a href="#/projects/new">New project</a>
+    </section>
+</article>
